@@ -1,4 +1,5 @@
 
+#this is aws provider configuration
 
 terraform {
   required_providers {
